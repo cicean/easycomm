@@ -1,0 +1,2 @@
+# easycomm
+This application enables easy, private communications via an open source server. Since email and SMS are not reliably encrypted, easycomm sends a notification via these channels that you have an encrypted message on the easycomm server. Easycomm is not full-featured. It lacks some basic things, such as authentication. Your pull requests are welcome, but the goal of easycomm is primarily to contain clear, easy to understand code.
